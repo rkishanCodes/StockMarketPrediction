@@ -1,0 +1,21 @@
+# Python-related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env
+
+# Model and data files (customize if needed)
+*.h5
+data.csv
+
+# System files
+.DS_Store
+*.log
